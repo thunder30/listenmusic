@@ -1,4 +1,4 @@
-﻿$(function()
+$(function()
 {
     var playerTrack = $("#player-track");
 	var bgArtwork = $('#bg-artwork');
