@@ -31,7 +31,7 @@ $(function()
 		url: "./resources/Mp3/Crush2-WnTezTien-6174294.mp3",
 		picture: "https://i.pinimg.com/originals/94/58/7a/94587aff05f7389aaa1e980758980be3.jpg"
 	},  {
-		artist: "AMee ft BRay1",
+		artist: "AMee ft BRay",
 		name: "DoForLove",
 		url: "./resources/Mp3/DoForLove-AMeeBRay-6221980.mp3",
 		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
