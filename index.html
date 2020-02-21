@@ -37,7 +37,7 @@
                     <!-- https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg -->
                     <img src="https://i.pinimg.com/originals/b1/9b/93/b19b93f12acc611dd7338491f659dd3d.jpg"
                         class="active" id="_1">
-                    <div id="buffer-box">Buffering ...</div>
+                    <div id="buffer-box">Loading...</div>
                 </div>
                 <div id="player-controls">
                     <div class="control">
@@ -55,8 +55,19 @@
                             <i class="fas fa-forward"></i>
                         </div>
                     </div>
+                    <div class="control">
+                        <div class="button" id="play-repeat">
+                            <i class="fas fa-redo"></i>
+                        </div>
+                    </div>
+                    <div class="control">
+                        <div class="button" id="play-menu">
+                            <i class="fas fa-bars"></i>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <div id="list-song" style="display: none;"></div>
         </div>
     </div>
     <!-- partial -->
