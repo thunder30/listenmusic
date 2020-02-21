@@ -35,6 +35,11 @@ $(function()
 		name: "DoForLove",
 		url: "./resources/Mp3/DoForLove-AMeeBRay-6221980.mp3",
 		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "AMee ft BRay",
+		name: "Anh Thương Em Nhất Mà",
+		url: "./resources/Mp3/Anh-Thuong-Em-Nhat-Ma-La-Log-TiB.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
 	}];
 	
 	function shuffle(a) {
