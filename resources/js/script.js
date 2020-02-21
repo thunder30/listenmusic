@@ -1,4 +1,4 @@
-$(function()
+﻿$(function()
 {
     var playerTrack = $("#player-track");
 	var bgArtwork = $('#bg-artwork');
@@ -34,7 +34,7 @@ $(function()
 		artist: "AMee ft BRay",
 		name: "DoForLove",
 		url: "./resources/Mp3/DoForLove-AMeeBRay-6221980.mp3",
-		picture: "https://wallpapercave.com/wp/wp2342895.jpg"
+		picture: "https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/p960x960/77196587_1372795972891460_7381732211139018752_o.jpg?_nc_cat=106&_nc_oc=AQlbEDG-pUpyEQu3icem9rgVKU3qLVrVPm7XegfYz3z_2o2UbvJoUj93xmfx_9rwW6A&_nc_ht=scontent.fsgn2-3.fna&_nc_tp=6&oh=622107d079d5588ef25709227e48eea8&oe=5EB89524"
 	}];
 	
 	function shuffle(a) {
