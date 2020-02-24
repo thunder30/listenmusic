@@ -82,6 +82,46 @@ $(function()
 		name: "DoForLove",
 		url: "./resources/Mp3/DoForLove.mp3",
 		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Thái Đinh",
+		name: "Em Có Còn Dùng Số Này Không?",
+		url: "./resources/Mp3/EmCoConDungSoNayKhong.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Reddy",
+		name: "Vài Giây Nữa Thôi",
+		url: "./resources/Mp3/VaiGiayNuaThoi.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Chi Pu",
+		name: "Anh Ơi Ở Lại",
+		url: "./resources/Mp3/AnhOiOLai.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Tóc Tiên, Touliver",
+		name: "Có Ai Thương Em Như Anh (CATENA)",
+		url: "./resources/Mp3/CoAiThuongEmNhuAnh.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Min",
+		name: "Đừng Yêu Nữa, Em Mệt Rồi",
+		url: "./resources/Mp3/DungYeuNuaEmMetRoi.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Vũ.",
+		name: "Lạ Lùng",
+		url: "./resources/Mp3/LaLung.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Thái Đinh",
+		name: "Phố Không Em",
+		url: "./resources/Mp3/PhoKhongEm.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Reddy",
+		name: "Thì Thôi",
+		url: "./resources/Mp3/ThiThoi.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
 	}];
 	
 	function shuffle(a) {
