@@ -36,12 +36,12 @@ $(function()
 		artist: "Đạt G, Du Uyên",
 		name: "Bánh Mì Không",
 		url: "./resources/Mp3/BanhMiKhong.mp3",
-		picture: "https://i.pinimg.com/originals/94/58/7a/94587aff05f7389aaa1e980758980be3.jpg"
+		picture: "https://i.pinimg.com/originals/b1/9b/93/b19b93f12acc611dd7338491f659dd3d.jpg"
 	},  {
 		artist: "Chillies",
 		name: "Có Em Đời Bỗng Vui",
 		url: "./resources/Mp3/CoEmDoiBongVui.mp3",
-		picture: "https://i.pinimg.com/originals/94/58/7a/94587aff05f7389aaa1e980758980be3.jpg"
+		picture: "https://scontent.fsgn1-1.fna.fbcdn.net/v/t1.0-9/36514077_987215388116189_406314690864480256_n.jpg?_nc_cat=111&_nc_sid=13bebb&_nc_oc=AQkliLQrcqCvOrsZOQF5T1E2pIyvgFO9WQaV-r1Kh5Mb-bwHyXMMWu6hZ3I1VSZwCAE&_nc_ht=scontent.fsgn1-1.fna&oh=aac95a836d036cdb166277aba3ad0014&oe=5EE970A2"
 	},  {
 		artist: "Chung Thanh Duy",
 		name: "Duyên Trời Lấy 2",
@@ -121,6 +121,11 @@ $(function()
 		artist: "Reddy",
 		name: "Thì Thôi",
 		url: "./resources/Mp3/ThiThoi.mp3",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Trịnh Thiên Ân x ViruSs",
+		name: "Em Ổn Không",
+		url: "./resources/Mp3/EmOnKhong.mp3",
 		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
 	}];
 	
