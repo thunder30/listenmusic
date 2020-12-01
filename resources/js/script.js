@@ -127,6 +127,11 @@ $(function()
 		name: "Em Ổn Không",
 		url: "./resources/Mp3/EmOnKhong.mp3",
 		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
+	},  {
+		artist: "Wowy - JoliPoli",
+		name: "Thiên Đàng",
+		url: "https://vnso-zn-16-tf-mp3-320s1-zmp3.zadn.vn/80699ca4dde334bd6df2/2488389203958497092?authen=exp=1606982222~acl=/80699ca4dde334bd6df2/*~hmac=e433e57dffe0511e8a8dcec2e88483ef",
+		picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzR7t-ogwkT9GDmmdwuQfrqibqnwH1tiDUdFNFmOwYNU9HCrpY"
 	}];
 	
 	function shuffle(a) {
